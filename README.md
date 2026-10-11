@@ -1,5 +1,7 @@
 # Dataset Explorer
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23304466.svg)](https://doi.org/10.5281/zenodo.23304466)
+
 Upload a CSV and instantly get column-level profiling — type detection, summary statistics, missing-value counts, and distribution charts.
 
 **Live demo:** https://dataset-explorer.pplx.app
@@ -42,6 +44,10 @@ npm start
 ## Author
 
 Samira Ray — [GitHub](https://github.com/Rei0322) · [LinkedIn](https://www.linkedin.com/in/samira-ray-44a58714a/) · [Kaggle](https://www.kaggle.com/samiraray)
+
+## Citation
+
+If you use this software, please cite it using the DOI [10.5281/zenodo.23304466](https://doi.org/10.5281/zenodo.23304466) (all versions) or [10.5281/zenodo.23304467](https://doi.org/10.5281/zenodo.23304467) (v1.0.0). Citation metadata is also in [CITATION.cff](CITATION.cff).
 
 ## License
 
