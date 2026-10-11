@@ -3,3 +3,9 @@ dist/
 data.db
 data.db-journal
 *.log
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+.env
+*.log

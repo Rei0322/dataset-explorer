@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Dataset Explorer"
+abstract: "A full-stack CSV profiling tool with automatic type inference, summary statistics, and distribution charts."
+type: software
+authors:
+  - family-names: Ray
+    given-names: Samira
+version: 1.0.0
+date-released: 2026-10-11
+license: MIT
+repository-code: "https://github.com/Rei0322/dataset-explorer"
