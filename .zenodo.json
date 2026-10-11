@@ -2,7 +2,17 @@
   "title": "Dataset Explorer",
   "description": "A full-stack CSV profiling tool with automatic type inference, summary statistics, and distribution charts.",
   "upload_type": "software",
-  "creators": [{ "name": "Ray, Samira" }],
+  "creators": [
+    {
+      "name": "Ray, Samira",
+      "orcid": "0009-0006-6885-8400"
+    }
+  ],
   "license": "MIT",
-  "keywords": ["react", "express", "typescript", "full-stack"]
+  "keywords": [
+    "react",
+    "express",
+    "typescript",
+    "full-stack"
+  ]
 }
